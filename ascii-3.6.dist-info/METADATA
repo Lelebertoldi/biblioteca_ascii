@@ -1,11 +1,20 @@
 Metadata-Version: 2.1
 Name: ascii
-Version: 3.6
-Summary: Turns images into ascii art
+Version: 3.6.1
+Summary: Turns images into ascii art (with modifications)
 Home-page: https://github.com/mkaminsky11/ascii
 Author: Michael Kaminsky
 Author-email: mkaminsky11@gmail.com
-Keywords: ascii,image,asciiart,ascii art,art
+Maintainer: Letícia Bertoldi
+Maintainer-email: trabalhosbertoldi@outlook.com
+Maintainer-page: https://github.com/Lelebertoldi
+Keywords: ascii, image, asciiart, ascii art, art
 Requires-Dist: Pillow
 Requires-Dist: urllib3
+Modified-by: Letícia Bertoldi
+Modified-email: trabalhosbertoldi@outlook.com
+Modification-Details: loadFromUrl originally received 3 arguments and now receives 4. The added argument is: rows, with the default signature now being: loadFromUrl(URL, columns=60, rows=None, color=True).
+A new module has been created with the signature: loadFromFile(image_file, columns=60, rows=None, color=True), which converts images stored on the computer into ASCII.
+
+
 
