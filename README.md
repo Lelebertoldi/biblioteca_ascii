@@ -1,4 +1,4 @@
-# Esse é um diretório da biblioteca ascii modificada por mim
+# Esse é um diretório da biblioteca ascii para o python modificada por mim
 
 ## Quais foram as modificações feitas?
 
