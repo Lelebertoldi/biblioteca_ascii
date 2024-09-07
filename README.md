@@ -34,7 +34,7 @@
   6. Pronto, pode usufruir da sua nova bibioteca 
 
 
-
+---
 ### Metadados originais:
 
 Metadata-Version: 2.1
