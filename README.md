@@ -21,13 +21,13 @@
 
   ## Como instalar:
 
-  1. Baixe a pasta dos arquivos desse diretório
+  1. Baixe as pastas dos arquivos desse diretório
 
   2. Vá até o local de instalação do seu python e viaje até a pasta Python\Lib\site-packages\
  
-  3. Coloque a pasta dos arquivos desse diretório lá
+  3. Coloque as pastas dos arquivos desse diretório lá
  
-  4. Dentro dessa pasta ascii abra seu VS Code 
+  4. Dentro da pasta ascii abra seu VS Code 
  
   5. Execute o comando pip install -r requirements.txt
  
